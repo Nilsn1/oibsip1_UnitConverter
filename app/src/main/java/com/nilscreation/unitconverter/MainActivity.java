@@ -112,8 +112,7 @@ public class MainActivity extends AppCompatActivity {
                         txtunit1.setText("Minute");
                         txtunit2.setText("Second");
                     }
-                }
-                else if (selectedUnit == "Temperature") {
+                } else if (selectedUnit == "Temperature") {
                     if (swap) {
                         txtunit1.setText("Kelvin");
                         txtunit2.setText("Degree Celsius");
@@ -153,7 +152,7 @@ public class MainActivity extends AppCompatActivity {
                     result = (Float.parseFloat(inputtext) / 60);
                     etOutput.setText("" + result);
                 }
-            }else if (selectedUnit == "Temperature") {
+            } else if (selectedUnit == "Temperature") {
                 if (!swap) {
                     result = (float) (Float.parseFloat(inputtext) + 273.15);
                     etOutput.setText("" + result);
