@@ -169,7 +169,6 @@ public class MainActivity extends AppCompatActivity {
     public void onBackPressed() {
         exitDialog();
     }
-
     private void exitDialog() {
         AlertDialog.Builder exit = new AlertDialog.Builder(MainActivity.this);
         exit.setTitle("Exit");
