@@ -2,13 +2,15 @@
 
 ![App Screenshot](https://nilsn1.github.io/oibsip1_UnitConverter/app/src/main/res/drawable/logo.png)
 
-Welcome to the oibsip3_Calculator Android App repository! The Calculator App is a simple, user-friendly application designed to perform basic mathematical operations. It's built using [JAVA,XML], making it accessible and easy to use for everyone.
-
+This is a simple Android app that allows users to convert between different units of measurement. The app provides a user-friendly interface for converting various types of units, such as length, weight, time and temperature.
 
 ## Features
 
-- Addition, subtraction, multiplication, division and percentages operations.
-- Clear button to reset the current calculation.
+- Unit conversion for multiple categories:
+  - Length
+  - Weight
+  - Time
+  - Temperature
 - User-friendly interface with a clean design.
 
 ## Technologies Used
@@ -23,7 +25,7 @@ Welcome to the oibsip3_Calculator Android App repository! The Calculator App is 
 
 ## Output
 
-- [Download Apk]()
+- [Download Apk](https://drive.google.com/file/d/10OXEPEeRJbU_6E6pddqFKqE_2A9A5sGx/view?usp=drive_link)
 
 ## Source Code
 
