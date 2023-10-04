@@ -21,7 +21,7 @@ This is a simple Android app that allows users to convert between different unit
 
 ## Video Demo
 
-- [See Now]()
+- [See Now](https://www.linkedin.com/posts/nilesh-sonawane-06a668180_connections-task1-oasisinfobyte-activity-7115284070414114817-r9yA?utm_source=share&utm_medium=member_android)
 
 ## Output
 
